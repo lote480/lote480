@@ -3,9 +3,9 @@
 - I do stuff when I feel like
 
 ## Languages Im learning
-- GML/C/C++/Java/bash
+- GML/C++/Java/bash
 ## Languages I know
-- Lua
+- C/Lua
 #### if you want to reach me just dm me on reddit u/lote480
 
 ## Github stats
