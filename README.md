@@ -2,10 +2,8 @@
 - I have SzPD
 - I do stuff when I feel like
 
-## Languages Im learning
-- GML/C++/Java/bash
-## Languages I know
-- C/Lua
+## Languages I know & tools I use
+- C/Lua/Geany/VScode/Gms2/Godot
 #### if you want to reach me just dm me on reddit u/lote480
 
 ## Github stats
