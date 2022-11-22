@@ -3,7 +3,7 @@
 - I do stuff when I feel like
 
 ## Languages I know & tools I use
-- C/Lua/Geany/VScode/Gms2/Godot
+- C/Lua/Sublime/Gms2/Godot
 #### if you want to reach me just dm me on reddit u/lote480
 
 ## Github stats
