@@ -2,7 +2,7 @@
 - I have SzPD
 - I do stuff when I feel like
 
-## Languages I know & tools I use
+## Languages & tools I use
 - C/Lua/Sublime/Gms2/Godot
 #### if you want to reach me just dm me on reddit u/lote480
 
